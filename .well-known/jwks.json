@@ -6,7 +6,7 @@
       "e": "AQAB",
       "use": "sig",
       "alg": "RS256",
-      "kid": "epic-sandbox-key-1"
+      "kid": "sandbox-key-5"
     }
   ]
 }
